@@ -1,0 +1,12 @@
+# carpetas locales de audio (no subir)
+Botonera/
+ELEMENTOS/
+Musica/
+Logs/
+
+# formatos típicos
+*.mp3
+*.mp2
+*.wav
+*.ogg
+*.flac
