@@ -1,0 +1,13 @@
+{
+    "rutas": {
+        "musica": "C:/Users/Propietario/Desktop/ccpcadena music/RADIO_SISTEMA/MUSICA",
+        "programas": "C:/Users/Propietario/Desktop/ccpcadena music/TUS_PROGRAMAS_EXTERNOS",
+        "botonera": "C:/Users/Propietario/Desktop/ccpcadena music/RADIO_SISTEMA/BOTONERA"
+    },
+    "extensiones_validas": [
+        ".mp3",
+        ".wav",
+        ".mp2",
+        ".ogg"
+    ]
+}
